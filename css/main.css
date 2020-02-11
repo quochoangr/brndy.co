@@ -129,6 +129,12 @@ a:hover,
  * 1. Add the correct text decoration in Edge.
  * 2. The shorthand declaration `underline dotted` is not supported in Safari.
  */
+.logo_main {
+  margin-left: -2px !important;
+}
+.size_lon {
+  font-size: 20px !important;
+}
 abbr[title] {
   /* 1 */
   text-decoration: underline dotted;
